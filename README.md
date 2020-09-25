@@ -4,4 +4,9 @@ This model is to target customers, so cluster of customers which are more simila
 
 The independent variables are Annual Income and Spending score, and then data points are assigned  clusters using k-means algorithm
 
-<img src="./images/cluster.png" width = 400>
+## Customers
+<img src="./customers.png" width = 400>
+
+<br> 
+## Cluster of customers
+<img src="./cluster.png" width = 400>
